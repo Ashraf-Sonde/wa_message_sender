@@ -6,5 +6,9 @@ html {
 }
 
 body {
-  background-color: red;
+  background-color: #dfdfdf;
+}
+
+.container {
+  max-width: 500px;
 }
